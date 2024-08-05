@@ -10,6 +10,8 @@
 * I’m currently working on nothing...
 * I’m currently learning Python Development
 * Ask me about anthing honestly
+
+```
 * How to reach me: aegisium@proton.me
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
