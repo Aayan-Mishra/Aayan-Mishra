@@ -6,10 +6,9 @@
 ## About Me 👨‍💻
 ```yaml
 * My name is Aayan Mishra (Spestly)
-* Pronouns: [Your Pronouns]
+* Pronouns: He/Him
 * I’m currently working on nothing...
 * I’m currently learning Python Development
-* Ask me about anthing honestly
 * How to reach me: aegisium@proton.me
 
 ```
