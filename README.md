@@ -38,4 +38,5 @@ Hello! I'm a passionate AI/ML Engineer and Software Developer from Australia.<br
 ---
 [![](https://visitcount.itsvg.in/api?id=Aayan-Mishra&icon=2&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## #30NitesOfCode:
+  ![@Spestly #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Spestly)
