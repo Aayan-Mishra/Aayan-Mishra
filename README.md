@@ -5,7 +5,7 @@
 
 I am a student residing in Sydney/Australia that is learning Deep Learning and Machine Learning. I build open-source models and tools focused on **visual generation, language understanding**, and **agentic systems**.
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBhYzY4M3JiMWNhODYzNTJyYmZ0anFjeml5Z2pnenBvemI5cWN1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="358" height="230" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWdpYTgwZGx1anZidHdjbWM2d2s1ZnowZWRudGIxcjFlc2RwNDg1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif" width="358" height="230" />
 
 ---
 
