@@ -2,7 +2,7 @@
 
 ---
 
-I am a student residing in Sydney/Australia that is learning Deep Learning and Machine Learning. I build powerful open-source models and tools focused on **visual generation, language understanding**, and **agentic systems**.
+I am a student residing in Sydney/Australia that is learning Deep Learning and Machine Learning. I build open-source models and tools focused on **visual generation, language understanding**, and **agentic systems**.
 
 <img align="right" alt="GIF" src="" width="358" height="268" />
 
@@ -15,12 +15,6 @@ I am a student residing in Sydney/Australia that is learning Deep Learning and M
 
 
 </br>
-
-### 📊 **GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayan404&include_all_commits=true&theme=transparent&hide_border=true&layout=compact"/>
-</p>
 
 ---
 
@@ -104,13 +98,18 @@ I am a student residing in Sydney/Australia that is learning Deep Learning and M
 ### 🧪 **Main Projects:**
 
 <p>
-  <a href="https://huggingface.co/AstralProject/OdysseyXL-4.0-Ultra">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AstralProject&repo=OdysseyXL-4.0-Ultra&hide_border=true&theme=transparent"/>
+  <a href="OdysseyXL - OdysseyXL is a photorealistic diffusion model that is designed to create ultra-realistic images! Based on SDXL">
+    <img align="center" src="https://huggingface.co/collections/open-neo/odysseyxl-67d4cf53fa315a2e04ca20d5"/>
   </a>
-  <a href="https://huggingface.co/AstralProject/Glacier-o1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AstralProject&repo=Glacier-o1&hide_border=true&theme=transparent"/>
+  <a href="Maverick - Maverick is a high-performance LLM that is designed to excel in most STEM areas as well as general NLP tasks!">
+    <img align="center" src="https://huggingface.co/collections/Spestly/maverick-1-67ece486149311c0a3552e4a"/>
   </a>
 </p>
 
 ---
 
+### 📊 **GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayan-Mishra&include_all_commits=true&theme=transparent&hide_border=true&layout=compact"/>
+</p>
