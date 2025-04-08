@@ -6,6 +6,8 @@ I am a student residing in Sydney/Australia that is learning Deep Learning and M
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBhYzY4M3JiMWNhODYzNTJyYmZ0anFjeml5Z2pnenBvemI5cWN1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="358" height="268" />
 
+---
+
 ### 🚀 **About me:**
 
 - 🧠 &nbsp; Currently creating **OdysseyXL**, **Kyro**, **Athena**, and **Maverick**;
