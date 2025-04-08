@@ -26,8 +26,9 @@ I am a student residing in Sydney/Australia that is learning Deep Learning and M
 
 ### 💻 Tech Stack
 
-#### IDEs/Local tools⚒️ 
-<p>
+#### ⚒️  IDEs/Local tools
+
+<p align="center">
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=yellow&color=black&labelColor=white"/>
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=white"/>
   &nbsp;
