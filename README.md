@@ -4,7 +4,7 @@
 
 I am a student residing in Sydney/Australia that is learning Deep Learning and Machine Learning. I build powerful open-source models and tools focused on **visual generation, language understanding**, and **agentic systems**.
 
-<img align="right" alt="GIF" src="https://www.growthmentor.com/wp-content/uploads/2020/06/developer.gif?raw=true" width="358" height="268" />
+<img align="right" alt="GIF" src="" width="358" height="268" />
 
 ### 🚀 **About me:**
 
