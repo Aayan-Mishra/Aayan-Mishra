@@ -4,7 +4,6 @@
 
 I am a student residing in Sydney/Australia that is learning Deep Learning and Machine Learning. I build open-source models and tools focused on **visual generation, language understanding**, and **agentic systems**.
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWdpYTgwZGx1anZidHdjbWM2d2s1ZnowZWRudGIxcjFlc2RwNDg1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif" width="358" height="230" />
 
 
 
@@ -24,7 +23,7 @@ I am a student residing in Sydney/Australia that is learning Deep Learning and M
 
 #### ⚒️  IDEs/Local tools
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=yellow&color=black&labelColor=white"/>
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=white"/>
   &nbsp;
@@ -34,7 +33,7 @@ I am a student residing in Sydney/Australia that is learning Deep Learning and M
 </p>
 
 #### 🧠 Machine Learning / Deep Learning
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" />
@@ -48,7 +47,7 @@ I am a student residing in Sydney/Australia that is learning Deep Learning and M
 
 
 #### 🌐 Web Development
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
@@ -60,7 +59,7 @@ I am a student residing in Sydney/Australia that is learning Deep Learning and M
 
 
 #### ☁️ Cloud & Hosting
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" />
@@ -73,7 +72,7 @@ I am a student residing in Sydney/Australia that is learning Deep Learning and M
 
 
 #### 🗄️ Databases & Backend
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
@@ -85,7 +84,7 @@ I am a student residing in Sydney/Australia that is learning Deep Learning and M
 
 
 #### 🧰 Programming Languages
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
